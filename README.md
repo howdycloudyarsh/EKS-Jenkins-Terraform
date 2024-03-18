@@ -150,13 +150,16 @@ Terraform apply --auto-approve
 ![image](https://github.com/howdycloudyarsh/Sprint-2/assets/133496386/9e1fe5ff-5409-4406-a420-acd3fa5462ff)
 
 
-### ===================================================================================================================================================
+### ================================================================================================================================================
 
 ### Schedule the PipeLine to run Everyday 12AM.
 
+
 #### Go to task >> Configuration >> General >> Build Triggers
 
+
 #### then configure the scheduling and save the task.
+
 
 
 ![image](https://github.com/howdycloudyarsh/Sprint_2.2-EKS-Jenkins-Terraform/assets/133496386/9c8e905e-fea2-4d91-b30e-bb25ef62d487)
